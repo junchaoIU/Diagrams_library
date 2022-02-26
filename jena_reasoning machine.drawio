@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2022-02-26T08:57:06.790Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.56" version="16.6.4" etag="VO9Cs0Jr0P5gvwd3p6eP" type="github"><diagram id="WQNO_lLr4skyFglbsmTy">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-26T09:08:57.909Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.56" etag="6DI8a5jQKJyu3NHsdWoX" version="16.6.4" type="github">
+  <diagram id="WQNO_lLr4skyFglbsmTy" name="Page-1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="PFUNsMOFEMGX8q9Rj1pk-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontSize=14;strokeWidth=2;" edge="1" parent="1" source="PFUNsMOFEMGX8q9Rj1pk-1" target="PFUNsMOFEMGX8q9Rj1pk-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PFUNsMOFEMGX8q9Rj1pk-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=14;strokeWidth=2;" edge="1" parent="1" source="PFUNsMOFEMGX8q9Rj1pk-1" target="PFUNsMOFEMGX8q9Rj1pk-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PFUNsMOFEMGX8q9Rj1pk-1" value="&lt;font face=&quot;Times New Roman&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;line-height: 1.2 ; font-size: 14px&quot;&gt;ModelFactory&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="270" y="350" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PFUNsMOFEMGX8q9Rj1pk-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Times New Roman;fontSize=14;strokeWidth=2;" edge="1" parent="1" source="PFUNsMOFEMGX8q9Rj1pk-2" target="PFUNsMOFEMGX8q9Rj1pk-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PFUNsMOFEMGX8q9Rj1pk-2" value="&lt;font face=&quot;Times New Roman&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;line-height: 1.2 ; font-size: 14px&quot;&gt;InfModel&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="270" y="450" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PFUNsMOFEMGX8q9Rj1pk-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=14;strokeWidth=2;" edge="1" parent="1" source="PFUNsMOFEMGX8q9Rj1pk-3" target="PFUNsMOFEMGX8q9Rj1pk-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PFUNsMOFEMGX8q9Rj1pk-3" value="&lt;font face=&quot;Times New Roman&quot; size=&quot;1&quot;&gt;&lt;b style=&quot;line-height: 1.2 ; font-size: 14px&quot;&gt;Reasoner&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="470" y="450" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PFUNsMOFEMGX8q9Rj1pk-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=14;strokeWidth=2;" edge="1" parent="1" source="PFUNsMOFEMGX8q9Rj1pk-4" target="PFUNsMOFEMGX8q9Rj1pk-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PFUNsMOFEMGX8q9Rj1pk-4" value="&lt;b&gt;注册推理机&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="470" y="355" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="PFUNsMOFEMGX8q9Rj1pk-6" value="&lt;b&gt;导入领域规则&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="530" y="413" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PFUNsMOFEMGX8q9Rj1pk-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=14;strokeWidth=2;" edge="1" parent="1" source="PFUNsMOFEMGX8q9Rj1pk-9" target="PFUNsMOFEMGX8q9Rj1pk-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PFUNsMOFEMGX8q9Rj1pk-9" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;line-height: 1.2&quot;&gt;中国近代革命历史本体ontmodel&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="50" y="350" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PFUNsMOFEMGX8q9Rj1pk-11" value="&lt;b&gt;初始化&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="200" y="354" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PFUNsMOFEMGX8q9Rj1pk-15" value="&lt;b&gt;创建&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="328" y="413" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PFUNsMOFEMGX8q9Rj1pk-18" value="&lt;b&gt;注入&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="170" y="450" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PFUNsMOFEMGX8q9Rj1pk-19" value="&lt;b&gt;注入&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="410" y="450" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="PFUNsMOFEMGX8q9Rj1pk-20" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b style=&quot;line-height: 1.2&quot;&gt;推理后的新的&lt;br&gt;中国近代革命历史本体ontmodel&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="260" y="540" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="PFUNsMOFEMGX8q9Rj1pk-22" value="&lt;b&gt;推理解析&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="327" y="505" width="70" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
